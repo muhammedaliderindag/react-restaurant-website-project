@@ -84,6 +84,3 @@ react-restaurant-website-project/
 │   └── package.json
 └── project sql.sql
 ```
-
-## Katkıda Bulunma
-Katkılarınız memnuniyetle karşılanır! Lütfen bir `fork` oluşturun, değişikliklerinizi commit edip pull request gönderin.
